@@ -1,4 +1,4 @@
-<h2>Architectural Enforcement &amp; Governance of Intelligent Systems</h2>
+[<h2>Architectural Enforcement &amp; Governance of Intelligent Systems</h2>
 <em>Capability without constraint is not intelligence™</em>
 
 ---
@@ -89,3 +89,4 @@ CI/CD pipelines, deployment configs, infrastructure, and operational runbooks.<b
 ---
 
 <sub>AEGIS™ is a trademark of Finnoybu IP LLC. All rights reserved.</sub>
+](https://github.com/aegis-initiative)
