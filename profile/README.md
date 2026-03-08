@@ -1,92 +1,56 @@
-[<h2>Architectural Enforcement &amp; Governance of Intelligent Systems</h2>
-<em>Capability without constraint is not intelligence™</em>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aegis-initiative/.github/main/profile/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aegis-initiative/.github/main/profile/assets/hero-light.svg">
+  <img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/profile/assets/hero-dark.svg" alt="AEGIS — Architectural Enforcement & Governance Intelligence System" width="100%">
+</picture>
+
+<br>
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-0084e7?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
+[![NIST AI RMF](https://img.shields.io/badge/NIST-AI_RMF_Aligned-0a1628?style=flat-square&labelColor=0084e7)](https://airc.nist.gov/Home)
+[![Standard](https://img.shields.io/badge/Type-Open_Standard-111d35?style=flat-square&labelColor=0084e7)](https://github.com/aegis-initiative)
+[![IP](https://img.shields.io/badge/IP-Finnoybu_IP_LLC-111d35?style=flat-square)](https://finnoybu.com)
 
 ---
 
-### Governance — the public-facing intellectual core
+**AEGIS** is an open standard for AI governance, policy enforcement, and architectural integrity. It provides enterprises and public institutions with a rigorous, auditable framework for deploying AI responsibly — at scale, across jurisdictions.
 
-<table>
-<tr>
-<td valign="top" width="33%">
-<img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-constitution.svg" width="24" height="24" alt=""/><br/>
-<a href="https://github.com/aegis-initiative/aegis-constitution"><b>aegis-constitution</b></a><br/>
-The canonical AEGIS™ governance charter — public, versioned, and citeable.<br/><br/>
-<sub>🌐 Public &nbsp;·&nbsp; aegissystems.app</sub>
-</td>
-<td valign="top" width="33%">
-<img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-docs.svg" width="24" height="24" alt=""/><br/>
-<a href="https://github.com/aegis-initiative/aegis-docs"><b>aegis-docs</b></a><br/>
-Public documentation site — developer guides, API reference, and integration specs.<br/><br/>
-<sub>🌐 Public &nbsp;·&nbsp; aegissystems.app</sub>
-</td>
-<td valign="top" width="33%">
-<img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-initiative.svg" width="24" height="24" alt=""/><br/>
-<a href="https://github.com/aegis-initiative/aegis-initiative"><b>aegis-initiative</b></a><br/>
-Org home — mission statement, contributor guidelines, and public roadmap.<br/><br/>
-<sub>🌐 Public &nbsp;·&nbsp; aegis-initiative.com</sub>
-</td>
-</tr>
-</table>
+This is not a product. It is governance infrastructure: machine-readable doctrine, enforcement schemas, and a runtime engine designed to make AI policy deterministic and auditable at the architectural level.
 
 ---
 
-### Engine — the technical implementation
+### Architecture
 
-<table>
-<tr>
-<td valign="top" width="33%">
-<img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-aegis.svg" width="24" height="24" alt=""/><br/>
-<a href="https://github.com/aegis-initiative/aegis"><b>aegis</b></a><br/>
-Governance doctrine, architecture decision records, and cross-component specifications.<br/><br/>
-<sub>🔒 Private &nbsp;·&nbsp; aegissystems.app</sub>
-</td>
-<td valign="top" width="33%">
-<img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-core.svg" width="24" height="24" alt=""/><br/>
-<a href="https://github.com/aegis-initiative/aegis-core"><b>aegis-core</b></a><br/>
-The enforcement engine — risk scoring, mediation layer, and policy runtime.<br/><br/>
-<sub>🔒 Private &nbsp;·&nbsp; aegissystems.app</sub>
-</td>
-<td valign="top" width="33%">
-<img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-labs.svg" width="24" height="24" alt=""/><br/>
-<a href="https://github.com/aegis-initiative/aegis-labs"><b>aegis-labs</b></a><br/>
-Research sandbox — prototypes, experiments, and spike work.<br/><br/>
-<sub>🔒 Private &nbsp;·&nbsp; aegis-labs.dev</sub>
-</td>
-</tr>
-</table>
+AEGIS is organized as a four-layer enforcement stack. Each layer has a defined scope, interface contract, and governance primitives that downstream layers consume.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  LAYER 4 · PLATFORM      Management, API, Reporting     │
+├─────────────────────────────────────────────────────────┤
+│  LAYER 3 · ENGINE        Runtime Enforcement & Audit    │
+├─────────────────────────────────────────────────────────┤
+│  LAYER 2 · SCHEMA        Machine-Readable Policy Defs   │
+├─────────────────────────────────────────────────────────┤
+│  LAYER 1 · DOCTRINE      Foundational Governance Canon  │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### Platform — the product and delivery
+### Repositories
 
-<table>
-<tr>
-<td valign="top" width="33%">
-<img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-platform.svg" width="24" height="24" alt=""/><br/>
-<a href="https://github.com/aegis-initiative/aegis-platform"><b>aegis-platform</b></a><br/>
-Production platform — operator dashboard and API surface.<br/><br/>
-<sub>🔒 Private &nbsp;·&nbsp; aegissystems.live</sub>
-</td>
-<td valign="top" width="33%">
-<img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-sdk.svg" width="24" height="24" alt=""/><br/>
-<a href="https://github.com/aegis-initiative/aegis-sdk"><b>aegis-sdk</b></a><br/>
-Client SDK for npm and PyPI — the primary integration surface for developers.<br/><br/>
-<sub>🌐 Public &nbsp;·&nbsp; aegissystems.app</sub>
-</td>
-<td valign="top" width="33%">
-<img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-ops.svg" width="24" height="24" alt=""/><br/>
-<a href="https://github.com/aegis-initiative/aegis-ops"><b>aegis-ops</b></a><br/>
-CI/CD pipelines, deployment configs, infrastructure, and operational runbooks.<br/><br/>
-<sub>🔒 Private &nbsp;·&nbsp; aegissystems.app</sub>
-</td>
-</tr>
-</table>
+| Repository | Layer | Description |
+|---|---|---|
+| [`aegis-doctrine`](https://github.com/aegis-initiative/aegis-doctrine) | 1 · Doctrine | Foundational governance canon and authoritative policy reference |
+| [`aegis-schema`](https://github.com/aegis-initiative/aegis-schema) | 2 · Schema | Machine-readable schemas for policies, risk classifications, and rules |
+| [`aegis-engine`](https://github.com/aegis-initiative/aegis-engine) | 3 · Engine | Runtime policy evaluation, drift detection, and audit event emission |
+| [`aegis-audit`](https://github.com/aegis-initiative/aegis-audit) | 3 · Engine | Immutable audit trail infrastructure and log schema |
+| [`aegis-platform`](https://github.com/aegis-initiative/aegis-platform) | 4 · Platform | Management console, API gateway, and operator surface |
+| [`aegis-sdk`](https://github.com/aegis-initiative/aegis-sdk) | 4 · Platform | Client SDK and integration libraries |
+| [`aegis-infra`](https://github.com/aegis-initiative/aegis-infra) | 4 · Platform | Infrastructure-as-code, deployment templates, and CI/CD |
+| [`aegis-docs`](https://github.com/aegis-initiative/aegis-docs) | 4 · Platform | Full documentation site source |
+| [`.github`](https://github.com/aegis-initiative/.github) | — | Org profile, issue templates, and contribution standards |
 
 ---
 
-<img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-initiative.svg" width="16" height="16" alt=""/> [README](https://github.com/aegis-initiative/aegis-initiative#readme) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-docs.svg" width="16" height="16" alt=""/> [Contributing](https://github.com/aegis-initiative/aegis-initiative/blob/main/CONTRIBUTING.md) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-constitution.svg" width="16" height="16" alt=""/> [Code of Conduct](https://github.com/aegis-initiative/aegis-initiative/blob/main/CODE_OF_CONDUCT.md) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-aegis.svg" width="16" height="16" alt=""/> [Security Policy](https://github.com/aegis-initiative/aegis-initiative/blob/main/SECURITY.md) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-labs.svg" width="16" height="16" alt=""/> [Roadmap](https://github.com/aegis-initiative/aegis-initiative/blob/main/ROADMAP.md)
-
----
-
-<sub>AEGIS™ is a trademark of Finnoybu IP LLC. All rights reserved.</sub>
-](https://github.com/aegis-initiative)
+<sub>© Finnoybu IP LLC · AEGIS is a trademark of Finnoybu IP LLC · <a href="https://opensource.org/licenses/Apache-2.0">Apache 2.0</a></sub>
