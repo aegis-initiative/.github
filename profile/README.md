@@ -84,17 +84,7 @@ CI/CD pipelines, deployment configs, infrastructure, and operational runbooks.<b
 
 ---
 
-### Resources
-
-<table>
-<tr>
-<td align="center"><a href="https://github.com/aegis-initiative/aegis-initiative#readme"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-initiative.svg" width="16" height="16" alt=""/> README</a></td>
-<td align="center"><a href="https://aegissystems.app"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-docs.svg" width="16" height="16" alt=""/> Documentation</a></td>
-<td align="center"><a href="https://github.com/aegis-initiative/aegis-constitution"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-constitution.svg" width="16" height="16" alt=""/> Constitution</a></td>
-<td align="center"><a href="https://github.com/aegis-initiative/aegis-sdk"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-sdk.svg" width="16" height="16" alt=""/> SDK</a></td>
-<td align="center"><a href="https://aegis-labs.dev"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-labs.svg" width="16" height="16" alt=""/> Labs</a></td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-initiative.svg" width="16" height="16" alt=""/> [README](https://github.com/aegis-initiative/aegis-initiative#readme) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-docs.svg" width="16" height="16" alt=""/> [Documentation](https://aegissystems.app) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-constitution.svg" width="16" height="16" alt=""/> [Constitution](https://github.com/aegis-initiative/aegis-constitution) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-sdk.svg" width="16" height="16" alt=""/> [SDK](https://github.com/aegis-initiative/aegis-sdk) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-labs.svg" width="16" height="16" alt=""/> [Labs](https://aegis-labs.dev)
 
 ---
 
