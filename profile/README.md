@@ -7,9 +7,9 @@
 
 <table>
 <tr>
-<td align="center" width="33%"><a href="https://github.com/aegis-initiative/aegis-constitution"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-constitution.svg" width="48" height="48" alt="aegis-constitution"/><br/><b>aegis-constitution</b></a><br/>The canonical AEGIS™ governance charter — public, versioned, and citeable.</td>
-<td align="center" width="33%"><a href="https://github.com/aegis-initiative/aegis-docs"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-docs.svg" width="48" height="48" alt="aegis-docs"/><br/><b>aegis-docs</b></a><br/>Public documentation site — developer guides, API reference, and integration specs.</td>
-<td align="center" width="33%"><a href="https://github.com/aegis-initiative/aegis-initiative"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-initiative.svg" width="48" height="48" alt="aegis-initiative"/><br/><b>aegis-initiative</b></a><br/>Org home — mission statement, contributor guidelines, and public roadmap.</td>
+<td valign="top" width="33%"><a href="https://github.com/aegis-initiative/aegis-constitution"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-constitution.svg" width="24" height="24" alt=""/> <b>aegis-constitution</b></a><br/><sub>The canonical AEGIS™ governance charter — public, versioned, and citeable.</sub></td>
+<td valign="top" width="33%"><a href="https://github.com/aegis-initiative/aegis-docs"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-docs.svg" width="24" height="24" alt=""/> <b>aegis-docs</b></a><br/><sub>Public documentation site — developer guides, API reference, and integration specs.</sub></td>
+<td valign="top" width="33%"><a href="https://github.com/aegis-initiative/aegis-initiative"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-initiative.svg" width="24" height="24" alt=""/> <b>aegis-initiative</b></a><br/><sub>Org home — mission statement, contributor guidelines, and public roadmap.</sub></td>
 </tr>
 </table>
 
@@ -19,9 +19,9 @@
 
 <table>
 <tr>
-<td align="center" width="33%"><a href="https://github.com/aegis-initiative/aegis"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-aegis.svg" width="48" height="48" alt="aegis"/><br/><b>aegis</b></a><br/>Governance doctrine, architecture decision records, and cross-component specifications.</td>
-<td align="center" width="33%"><a href="https://github.com/aegis-initiative/aegis-core"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-core.svg" width="48" height="48" alt="aegis-core"/><br/><b>aegis-core</b></a><br/>The enforcement engine — risk scoring, mediation layer, and policy runtime.</td>
-<td align="center" width="33%"><a href="https://github.com/aegis-initiative/aegis-labs"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-labs.svg" width="48" height="48" alt="aegis-labs"/><br/><b>aegis-labs</b></a><br/>Research sandbox — prototypes, experiments, and spike work on aegis-labs.dev.</td>
+<td valign="top" width="33%"><a href="https://github.com/aegis-initiative/aegis"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-aegis.svg" width="24" height="24" alt=""/> <b>aegis</b></a><br/><sub>Governance doctrine, architecture decision records, and cross-component specifications.</sub></td>
+<td valign="top" width="33%"><a href="https://github.com/aegis-initiative/aegis-core"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-core.svg" width="24" height="24" alt=""/> <b>aegis-core</b></a><br/><sub>The enforcement engine — risk scoring, mediation layer, and policy runtime.</sub></td>
+<td valign="top" width="33%"><a href="https://github.com/aegis-initiative/aegis-labs"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-labs.svg" width="24" height="24" alt=""/> <b>aegis-labs</b></a><br/><sub>Research sandbox — prototypes, experiments, and spike work on aegis-labs.dev.</sub></td>
 </tr>
 </table>
 
@@ -31,9 +31,9 @@
 
 <table>
 <tr>
-<td align="center" width="33%"><a href="https://github.com/aegis-initiative/aegis-platform"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-platform.svg" width="48" height="48" alt="aegis-platform"/><br/><b>aegis-platform</b></a><br/>Production platform — operator dashboard and API surface at aegissystems.live.</td>
-<td align="center" width="33%"><a href="https://github.com/aegis-initiative/aegis-sdk"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-sdk.svg" width="48" height="48" alt="aegis-sdk"/><br/><b>aegis-sdk</b></a><br/>Client SDK for npm and PyPI — the primary integration surface for developers.</td>
-<td align="center" width="33%"><a href="https://github.com/aegis-initiative/aegis-ops"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-ops.svg" width="48" height="48" alt="aegis-ops"/><br/><b>aegis-ops</b></a><br/>CI/CD pipelines, deployment configs, infrastructure, and operational runbooks.</td>
+<td valign="top" width="33%"><a href="https://github.com/aegis-initiative/aegis-platform"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-platform.svg" width="24" height="24" alt=""/> <b>aegis-platform</b></a><br/><sub>Production platform — operator dashboard and API surface at aegissystems.live.</sub></td>
+<td valign="top" width="33%"><a href="https://github.com/aegis-initiative/aegis-sdk"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-sdk.svg" width="24" height="24" alt=""/> <b>aegis-sdk</b></a><br/><sub>Client SDK for npm and PyPI — the primary integration surface for developers.</sub></td>
+<td valign="top" width="33%"><a href="https://github.com/aegis-initiative/aegis-ops"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-ops.svg" width="24" height="24" alt=""/> <b>aegis-ops</b></a><br/><sub>CI/CD pipelines, deployment configs, infrastructure, and operational runbooks.</sub></td>
 </tr>
 </table>
 
@@ -43,11 +43,11 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/aegis-initiative/aegis-initiative#readme">📖 README</a></td>
-<td align="center"><a href="https://aegissystems.app">📚 Documentation</a></td>
-<td align="center"><a href="https://github.com/aegis-initiative/aegis-constitution">📜 Constitution</a></td>
-<td align="center"><a href="https://github.com/aegis-initiative/aegis-sdk">🔧 SDK</a></td>
-<td align="center"><a href="https://aegis-labs.dev">🧪 Labs</a></td>
+<td align="center"><a href="https://github.com/aegis-initiative/aegis-initiative#readme"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-initiative.svg" width="16" height="16" alt=""/> README</a></td>
+<td align="center"><a href="https://aegissystems.app"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-docs.svg" width="16" height="16" alt=""/> Documentation</a></td>
+<td align="center"><a href="https://github.com/aegis-initiative/aegis-constitution"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-constitution.svg" width="16" height="16" alt=""/> Constitution</a></td>
+<td align="center"><a href="https://github.com/aegis-initiative/aegis-sdk"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-sdk.svg" width="16" height="16" alt=""/> SDK</a></td>
+<td align="center"><a href="https://aegis-labs.dev"><img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/assets/logo-labs.svg" width="16" height="16" alt=""/> Labs</a></td>
 </tr>
 </table>
 
