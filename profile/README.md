@@ -52,28 +52,6 @@ The enforcement engine — risk scoring, mediation layer, and policy runtime.<br
 Research sandbox — prototypes, experiments, and spike work.<br/><br/>
 <sub>🔒 Private &nbsp;·&nbsp; aegis-labs.dev</sub>
 </td>
-  <li class="col-lg-4 mb-4 mb-lg-0">
-    <task-component class="d-inline" data-task-key="customize_permission" data-complete-task-url="/orgs/aegis-initiative/organization_onboarding/tasks" data-catalyst="">
-          <a href="/organizations/aegis-initiative/settings/member_privileges?enable_tip=true" data-analytics-event="{&quot;category&quot;:&quot;Onboarding Task&quot;,&quot;action&quot;:&quot;click on onboarding task&quot;,&quot;label&quot;:&quot;task:customize_permission;type:organizations&quot;}" data-action="click:task-component#completeTask" class="position-relative height-full overflow-hidden d-flex width-full Box flex-column flex-justify-start no-underline color-shadow-medium hover-grow">
-      <div class="p-3" style="opacity: 0.2;">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-circle color-fg-muted d-block">
-    <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"></path>
-</svg>
-      </div>
-
-      <div class="px-3 pb-3">
-        <span class="h5 lh-condensed color-fg-accent">
-          Customize members' permissions
-        </span>
-          <div class="f6 color-fg-muted">
-            Set everyone’s base permissions for your code.
-          </div>
-      </div>
-</a>
-      <!-- '"` --><!-- </textarea></xmp> --><form data-turbo="false" action="/orgs/aegis-initiative/organization_onboarding/tasks" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BrWKf33L2K9wh9_hIscbWnjCx-_LoQb32_XNFzcSbDLMUzsnuBkZWyBQ9nQ08YCKUI5ztadVEX-coG3i4xvwNA" autocomplete="off">
-        <input type="hidden" value="w7fP1sc6Z51FPxGpYoBU8ACC5alP3NGZ2hD120hJzRd-xkVBCMB8OujgFIqNNKho02LZ4fQJQg1sTNEXtZKgTQ" data-csrf="true" class="js-data-url-csrf" data-target="task-component.token">
-</form>    </task-component>
-</li>
 </tr>
 </table>
 
