@@ -1,0 +1,16 @@
+# AEGIS™ Org .github Code Owners
+
+# Default Repository Owner(s)
+* @finnoybu
+
+# Org Profile
+/profile/ @finnoybu
+
+# Community Health Files
+/SECURITY.md @finnoybu
+
+# PR Template
+/.github/pull_request_template.md @finnoybu
+
+# Issue Templates
+/.github/ISSUE_TEMPLATE/ @finnoybu
