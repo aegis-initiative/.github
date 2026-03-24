@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aegis-initiative/.github/main/profile/assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aegis-initiative/.github/main/profile/assets/hero-light.svg">
-  <img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/profile/assets/hero-dark.svg" alt="AEGIS — Architectural Enforcement & Governance Intelligence System" width="100%">
+  <img src="https://raw.githubusercontent.com/aegis-initiative/.github/main/profile/assets/hero-dark.svg" alt="AEGIS — Architectural Enforcement & Governance of Intelligent Systems" width="100%">
 </picture>
 
 <br>
@@ -10,7 +10,7 @@
 [![NIST AI RMF](https://img.shields.io/badge/NIST-AI_RMF_Aligned-0a1628?style=flat-square&labelColor=0084e7)](https://airc.nist.gov/Home)
 [![IP](https://img.shields.io/badge/IP-Finnoybu_IP_LLC-111d35?style=flat-square&labelColor=0084e7)](https://finnoybu.com)
 
-# Architectural Enforcement & Governance Intelligence System
+# Architectural Enforcement & Governance of Intelligent Systems
 
 An open standard for AI governance, policy enforcement, and architectural integrity — designed for enterprises and public institutions that require rigorous, auditable AI deployment at scale.
 
