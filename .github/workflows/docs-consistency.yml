@@ -1,0 +1,47 @@
+name: Reusable Documentation Consistency
+
+on:
+  workflow_call:
+    inputs:
+      file-pattern:
+        description: "Glob pattern for files to check"
+        required: false
+        type: string
+        default: "*.md"
+      runs-on:
+        description: "Runner label"
+        required: false
+        type: string
+        default: "ubuntu-latest"
+
+permissions:
+  contents: read
+
+jobs:
+  consistency-check:
+    runs-on: ${{ inputs.runs-on }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+
+      - name: Check for inconsistent phrases
+        run: |
+          set -e
+          # Check for correct tagline (must appear exactly as specified)
+          # Only "Capability without constraint is not intelligence"™ is allowed
+          if grep -r -i 'Capability without constraint is not intelligence' . --include='${{ inputs.file-pattern }}' | grep -vE 'Capability without constraint is not intelligence"?™'; then
+            echo '❌ Inconsistent tagline found. Only "Capability without constraint is not intelligence"™ is allowed.'
+            exit 1
+          fi
+          # Check for deprecated singular expansion
+          # "Architectural Enforcement & Governance Intelligence System" is deprecated
+          if grep -r -i 'Architectural Enforcement & Governance Intelligence System' . --include='${{ inputs.file-pattern }}'; then
+            echo '❌ Deprecated expansion found: "Architectural Enforcement & Governance Intelligence System". Use "Architectural Enforcement & Governance of Intelligent Systems" only.'
+            exit 1
+          fi
+          # Check for correct expansion with proper casing
+          if grep -r -i 'Architectural Enforcement & Governance of Intelligent Systems' . --include='${{ inputs.file-pattern }}' | grep -v 'Architectural Enforcement & Governance of Intelligent Systems'; then
+            echo '❌ Inconsistent expansion found. Only "Architectural Enforcement & Governance of Intelligent Systems" is allowed.'
+            exit 1
+          fi
+          echo '✅ Documentation consistency checks passed.'

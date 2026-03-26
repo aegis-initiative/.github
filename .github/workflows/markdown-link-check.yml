@@ -1,0 +1,33 @@
+name: Reusable Markdown Link Check
+
+on:
+  workflow_call:
+    inputs:
+      lychee-args:
+        description: "Arguments passed to lychee"
+        required: false
+        type: string
+        default: '--config .lychee.toml "**/*.md"'
+      fail-on-error:
+        description: "Whether to fail the workflow on broken links"
+        required: false
+        type: boolean
+        default: false
+      runs-on:
+        description: "Runner label"
+        required: false
+        type: string
+        default: "ubuntu-latest"
+
+permissions:
+  contents: read
+
+jobs:
+  link-check:
+    runs-on: ${{ inputs.runs-on }}
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      - uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411 # v2.8.0
+        with:
+          args: ${{ inputs.lychee-args }}
+          fail: ${{ inputs.fail-on-error }}
