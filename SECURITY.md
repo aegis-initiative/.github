@@ -54,13 +54,19 @@ We request that you:
 
 - Allow reasonable time for remediation before public disclosure
 - Act in good faith to avoid privacy violations or service disruption
-- Do not exploit the vulnerability beyond what is necessary for demonstration
 
----
 
 ## Security Best Practices
+Do not exploit the vulnerability beyond what is necessary for demonstration
 
-### For Specification Contributors
+
+## Known Security Considerations
+
+The following are known security considerations specific to the aegis-governance repository:
+
+- The governance process may involve sensitive information. Contributors should avoid sharing confidential or personally identifiable information in public issues or pull requests.
+- All security-related discussions should be conducted in accordance with the project's confidentiality guidelines.
+
 
 When proposing changes to AEGIS™ specifications:
 

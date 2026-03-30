@@ -16,19 +16,26 @@ diverse, inclusive, and healthy community.
 
 Examples of behavior that contributes to a positive environment:
 
-- Demonstrating empathy and kindness toward other people
-- Being respectful of differing opinions, viewpoints, and experiences
-- Giving and gracefully accepting constructive feedback
-- Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-- Focusing on what is best not just for us as individuals, but for the overall community
 
 Examples of unacceptable behavior:
 
-- The use of sexualized language or imagery, and sexual attention or advances of any kind
-- Trolling, insulting or derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information without their explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+
+## Expected Behavior
+All participants in the AEGIS project are expected to:
+
+- Demonstrate respect and consideration for others.
+- Communicate openly and thoughtfully with others.
+- Assume positive intent and seek to resolve disagreements constructively.
+- Value diversity of thought, background, and experience.
+- Uphold the principles and mission of the AEGIS project.
+
+## Unacceptable Behavior
+The following behaviors are considered unacceptable and will not be tolerated:
+
+- Harassment, intimidation, or discrimination in any form.
+- Personal attacks, insults, or derogatory comments.
+- Disruptive or disrespectful behavior that hinders constructive collaboration.
+- Retaliation against individuals who report code of conduct violations.
 
 ## Enforcement Responsibilities
 
