@@ -34,4 +34,4 @@ All community health files follow standards defined in [aegis](https://github.co
 
 ---
 
-*AEGIS™ and "Capability without constraint is not intelligence™" are trademarks of Finnoybu IP LLC.*
+*AEGIS™ and "Capability without constraint is not intelligence™" are trademarks of Finnoybu IP LLC, used under license by AEGIS Operations LLC.*
