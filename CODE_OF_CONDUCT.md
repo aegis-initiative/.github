@@ -63,4 +63,4 @@ version 2.1, available at
 
 ---
 
-AEGIS is a trademark of Finnoybu IP LLC.
+AEGIS is a trademark of AEGIS Initiative.

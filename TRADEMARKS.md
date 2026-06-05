@@ -2,7 +2,7 @@
 
 ## Trademarks
 
-The following are trademarks of **Finnoybu IP LLC**:
+The following are trademarks of **AEGIS Initiative**:
 
 - **AEGIS**
 - **"Capability without constraint is not intelligence"**
@@ -23,7 +23,7 @@ When using AEGIS trademarks:
 
 - Use the trademark symbol on first use in any document or page
 - Do not alter the marks (e.g., do not change capitalization or wording)
-- Do not use the marks in a way that suggests endorsement by Finnoybu IP LLC without written permission
+- Do not use the marks in a way that suggests endorsement by AEGIS Initiative without written permission
 - Do not incorporate the marks into your own product names, service names, or domain names
 
 ### Not Permitted
@@ -44,4 +44,4 @@ For trademark licensing inquiries or permission requests, open a **Legal & Licen
 
 ---
 
-*AEGIS and "Capability without constraint is not intelligence" are trademarks of Finnoybu IP LLC. All rights reserved.*
+*AEGIS and "Capability without constraint is not intelligence" are trademarks of AEGIS Initiative. All rights reserved.*

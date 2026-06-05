@@ -4,8 +4,8 @@
 Org-wide community health files and GitHub profile for the aegis-initiative organization. Files here are inherited by all repos that don't define their own.
 
 ## Org Context
-- Operating Entity: AEGIS Operations LLC
-- Trademark Owner: Finnoybu IP LLC
+- Operating Entity: AEGIS Initiative
+- Trademark Owner: AEGIS Initiative
 - Parent Ecosystem: AEGIS Initiative Organization (GitHub)
 - GitHub Org: github.com/aegis-initiative
 

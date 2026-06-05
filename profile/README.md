@@ -14,4 +14,4 @@
 
 An open standard for AI governance, policy enforcement, and architectural integrity — designed for enterprises and public institutions that require rigorous, auditable AI deployment at scale.
 
-<sub>© Finnoybu IP LLC · AEGIS is a trademark of Finnoybu IP LLC · [Apache 2.0](https://opensource.org/licenses/Apache-2.0)</sub>
+<sub>© AEGIS Initiative · AEGIS is a trademark of AEGIS Initiative · [Apache 2.0](https://opensource.org/licenses/Apache-2.0)</sub>
