@@ -42,4 +42,4 @@ Operational infrastructure, deployment assets, and runbooks live in [`aegis-ops`
 
 ---
 
-*AEGIS™ and "Capability without constraint is not intelligence®" are trademarks of AEGIS Initiative, used under license by AEGIS Initiative.*
+*AEGIS™ and "Capability without constraint is not intelligence™" are trademarks of AEGIS Initiative, used under license by AEGIS Initiative.*

@@ -4,8 +4,8 @@
 
 The following are trademarks of **AEGIS Initiative**:
 
-- **AEGIS™** — unregistered, claimed under common law
-- **"Capability without constraint is not intelligence"®** — registered service mark with the USPTO
+- **AEGIS**
+- **"Capability without constraint is not intelligence"**
 
 ## Usage Guidelines
 
@@ -44,4 +44,4 @@ For trademark licensing inquiries or permission requests, open a **Legal & Licen
 
 ---
 
-*AEGIS™ and "Capability without constraint is not intelligence"® are trademarks of AEGIS Initiative. All rights reserved.*
+*AEGIS and "Capability without constraint is not intelligence" are trademarks of AEGIS Initiative. All rights reserved.*
