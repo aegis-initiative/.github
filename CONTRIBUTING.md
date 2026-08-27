@@ -77,4 +77,4 @@ The [aegis](https://github.com/aegis-initiative/aegis) repository is the central
 
 All contributions to repositories in the `aegis-initiative` organization become intellectual property of **AEGIS Initiative** under the terms of the contributor agreement.
 
-AEGIS and "Capability without constraint is not intelligence" are trademarks of AEGIS Initiative.
+AEGIS™ and "Capability without constraint is not intelligence"® are trademarks of AEGIS Initiative.
