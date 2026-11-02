@@ -1,0 +1,42 @@
+name: Reusable Astro Build Check
+
+# Runs the real `npm run build` (including any prebuild/postbuild hooks)
+# for one Astro site, as a PR gate. Before this existed, only Cloudflare
+# Pages' own deploy-time build ever ran this command, so a broken
+# prebuild path (or any other build-time failure) was invisible until
+# after merge -- see GOTCHAS.md.
+
+on:
+  workflow_call:
+    inputs:
+      site-dir:
+        description: "Path to the site's package.json directory, e.g. sites/docs"
+        required: true
+        type: string
+      node-version:
+        description: "Node.js version to build with"
+        required: false
+        type: string
+        default: "22"
+      runs-on:
+        description: "Runner label"
+        required: false
+        type: string
+        default: "ubuntu-latest"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ${{ inputs.runs-on }}
+    defaults:
+      run:
+        working-directory: ${{ inputs.site-dir }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@v7
+        with:
+          node-version: ${{ inputs.node-version }}
+      - run: npm ci
+      - run: npm run build
